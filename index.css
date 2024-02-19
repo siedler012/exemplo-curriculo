@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+
+}
+
+header{
+    margin-bottom: 40px;
+}
+
+header h1 {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    font-size: 55px;
+    text-align: center;
+    text-shadow: 3px 3px 4px greenyellow;
+}
+
+h2{
+    color: (255, 255, 255);
+}
+
+header figure{
+    border: 1px solid white;
+    width: 250px;
+    height: 250px;
+    border-radius: 120px;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: 1px 1px 7px white;
+}
+
+header figure img{
+    width: 500px;
+    border-radius:120px;
+}
+
+header nav{
+    text-align: center;
+}
+
+header nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 7px;
+}
+
+header nav a:hover{
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+section{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    padding: 40px 20px;
+    background-color: #008000
+    
+}
+
+aside{
+    text-align: center;
+    margin: 10px;
+}
+
